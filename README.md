@@ -1,7 +1,7 @@
 <h1 align="center"> À𝖑è𝖝 𝕻ì𝖐ù </h1> 
 <p align="center"> Introducing À𝖑è𝖝 𝕻ì𝖐ù, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
-1. ***GET QR FROM SERVER 1 [`SESSION ID `](https://pair-qr-wasi-md.onrender.com).***
-2.  ***GET QR FROM SERVER 2 [`SESSION ID by pair code`](https://pair-qr-wasi-md.onrender.com).***
+1. ***GET QR FROM SERVER 1 [`SESSION ID `](https://pair-qr-alex-piku.onrender.com).***
+2.  ***GET QR FROM SERVER 2 [`SESSION ID by pair code`](https://pair-qr-alex-piku.onrender.com).***
 ---
 `it is currently powerful working` `IF QR OR PAIR DOESN'T WORK THEN REPORT ME ON WHATSAPP JOIN MY SUPPORT GC`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
@@ -11,7 +11,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <a href="https://pair-qr-alex piku-md.onrender.com"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
   # <a href="https://pair-qr-alex-piku.onrender.com"><img title="fork" src="https://img.shields.io/badge/pair code -h?color=darkblue&style=for-the-badge&logo=msi"></a>
 
-# <a href="https://github.com/wasixd/WASI-MD/fork"><img title="fork" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+# <a href="https://github.com/wasixd/alex piku-MD/fork"><img title="fork" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 # <a href="https://dashboard.heroku.com/new?template=https://github.com/alex-piku/alex-piku"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 # <a href="https://railway.app/template/tM2McB?referralCode=v7Xehd"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 # <a href="(https://replit.com/github/wasixd/alex-piku"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=darkblue&style=for-the-badge&logo=msi"></a>
